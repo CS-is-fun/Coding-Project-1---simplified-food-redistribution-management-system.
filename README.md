@@ -1,0 +1,2 @@
+# Coding-Project-1---simplified-food-redistribution-management-system.
+A coding project I have decided to do for fun to expand my understanding of coding. It is about a simplified food redistribution management system which is meant to simulate where surplus food should go, while considering expiry dates, demand, distance, capacity and priority, while creating an optimised and efficient redistribution plan. - Python
